@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jannata-resort-gsap/static/css/main.4169f80c.css",
+    "main.js": "/jannata-resort-gsap/static/js/main.150fc0f7.js",
+    "static/js/787.c201f38d.chunk.js": "/jannata-resort-gsap/static/js/787.c201f38d.chunk.js",
+    "index.html": "/jannata-resort-gsap/index.html",
+    "main.4169f80c.css.map": "/jannata-resort-gsap/static/css/main.4169f80c.css.map",
+    "main.150fc0f7.js.map": "/jannata-resort-gsap/static/js/main.150fc0f7.js.map",
+    "787.c201f38d.chunk.js.map": "/jannata-resort-gsap/static/js/787.c201f38d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4169f80c.css",
+    "static/js/main.150fc0f7.js"
+  ]
+}
